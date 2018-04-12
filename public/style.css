@@ -1,0 +1,6 @@
+#image {
+  width: 150px;
+  height:500px;
+  display: flex;
+  align-self: center;
+}
